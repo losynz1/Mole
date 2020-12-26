@@ -1,0 +1,31 @@
+#mole{
+	position: absolute;
+	left: 400px;
+	top: 400px;
+	width: 70px;
+	height: 70px;
+}
+p{
+	text-align: center;
+}
+#stop{
+	background-color: #4CAF50; /* Green */
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+}
+
+#start{
+	background-color: #4CAF50; /* Green */
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+}
